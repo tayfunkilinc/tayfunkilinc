@@ -1,1 +1,1 @@
-👋 Hi, I’m Tayfun KILINÇ
+👋👋👋  Hi, I’m Tayfun KILINÇ 👋👋👋
