@@ -1,5 +1,7 @@
 👋👋👋  Hi, I’m Tayfun KILINÇ 👋👋👋
 
+You can reach me through the website www.tayfunkilinc.com
+
 ```
-WEB SİTE : www.tayfunkilinc.com
+www.tayfunkilinc.com
 ```
