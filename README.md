@@ -1,40 +1,38 @@
 <div align="center">
   
-# 👋 Hi, I'm Tayfun KILINÇ
+# Hello, I'm Tayfun KILINÇ 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer+🚀;Java+%7C+Spring+Boot+Expert+☕;React+%26+PostgreSQL+Developer+💻;Open+Source+Enthusiast+🌟)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer;Java+%7C+Spring+Boot+Expert;React+%26+PostgreSQL+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=tayfunkilinc&label=Profile%20Views&color=0e75b6&style=flat" alt="tayfunkilinc" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfun-kilinc/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayfunklnc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://tr.pinterest.com/tayfunklnc/)
-[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.tayfunkilinc.com.tr/)
+![Profile Views](https://komarev.com/ghpvc/?username=tayfunkilinc&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect with Me
 
 <div align="center">
 
-### Backend
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfunkilinc/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayfunkilinc)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/tayfunkilinc)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tayfunkilinc.com)
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Frontend
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,144 +46,124 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkilinc&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkilinc&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tayfunkilinc&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🔭 Featured Projects
+## 🎯 Featured Projects
 
 ### 📦 Inventory Management System
+<a href="https://github.com/tayfunkilinc/InventoryManagementSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=InventoryManagementSystem&theme=radical&hide_border=true" />
+</a>
 
-<div align="center">
+**Description:** A comprehensive inventory management system developed with Spring Boot and React. This system provides efficient warehouse and product management capabilities.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=inventory-project1&theme=radical&hide_border=true)](https://github.com/tayfunkilinc/inventory-project1)
+**Key Features:**
+- ✅ Product tracking and management
+- ✅ Warehouse operations management
+- ✅ Real-time inventory monitoring
+- ✅ Reporting and analytics
+- ✅ RESTful API architecture
 
-</div>
-
-A comprehensive customer and product inventory management system built with **Spring Boot** (backend) and **React** (frontend).
-
-**✨ Key Features:**
-- 🏢 Multi-company onboarding support
-- 🗄️ PostgreSQL database integration
-- 🔐 Role-based access control (RBAC)
-- 📍 Dynamic address management
-- 🔑 OTP-secured admin workflows
-
-**🛠️ Technologies:** `Spring Boot` `React` `PostgreSQL` `JWT` `REST API`
-
-<div align="center">
-  
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/inventory-project1)
-
-</div>
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/InventoryManagementSystem)
 
 ---
 
 ### 🏭 Warehouse Product Tracking System
+<a href="https://github.com/tayfunkilinc/DepoUrunTakip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=DepoUrunTakip&theme=radical&hide_border=true" />
+</a>
 
-<div align="center">
+**Description:** An advanced warehouse product tracking system that enables real-time monitoring and management of inventory operations.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=depoekstrauruntakipsistemi&theme=radical&hide_border=true)](https://github.com/tayfunkilinc/depoekstrauruntakipsistemi)
-
-</div>
-
-Advanced product tracking system with **real-time notifications** and **Flyway migrations** for seamless database updates.
-
-**🛠️ Technologies:** `Java` `Spring Boot` `PostgreSQL` `Flyway`
-
-<div align="center">
-  
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/depoekstrauruntakipsistemi)
-
-</div>
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/DepoUrunTakip)
 
 ---
 
-### 📚 Other Projects & Learning Work
+### 📚 Additional Projects
 
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🔗 Link |
-|---------|------------|---------|
-| 📖 Practice Lesson | Java exercises and mini-projects for learning | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/PracticeLesson) |
-| ☕ Java Lesson | Comprehensive Java learning materials and examples | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/JavaLesson) |
-| 🔐 Spring Security JWT | JWT authentication implementation with Spring Security | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/SpringSecurityJwt) |
-| 📱 Android Projects | Customer and data management mobile applications | [![Repos](https://img.shields.io/badge/View_All-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc?tab=repositories) |
-
-</div>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Practice Lessons](https://github.com/tayfunkilinc/PracticeLessons) | Educational projects and practice exercises | Java, Spring Boot |
+| [Java Lessons](https://github.com/tayfunkilinc/JavaLessons) | Java programming tutorials and examples | Java |
+| [Spring Security JWT](https://github.com/tayfunkilinc/SpringSecurityJWT) | JWT-based authentication system | Spring Boot, Security, JWT |
+| [Android Projects](https://github.com/tayfunkilinc/AndroidProjects) | Mobile application development projects | Android, Java |
 
 ---
 
-## ⚡ About Me
-
-<div align="center">
+## 💼 About Me
 
 ```javascript
 const tayfun = {
-    location: "📍 Ankara, Turkey",
-    pronouns: "he/him",
-    currentRole: "Remote Project Developer",
-    currentFocus: ["☕ Java", "🍃 Spring Boot", "⚛️ React", "🐘 PostgreSQL"],
-    workStyle: "🏠 Remote / Hybrid",
-    learning: ["☁️ Cloud Technologies", "🐳 Docker", "🎯 Microservices"],
-    interests: ["💻 Full Stack Development", "🚀 Backend Architecture", "🌟 Open Source"],
-    funFact: "🎯 Always eager to learn new technologies!",
-    availableFor: ["💼 Freelance Projects", "🤝 Collaborations", "📚 Mentorship"]
+    name: "Tayfun KILINÇ",
+    role: "Full Stack Developer",
+    location: "Turkey",
+    workingStyle: "Remote",
+    code: ["Java", "JavaScript", "SQL", "HTML", "CSS"],
+    technologies: {
+        backend: {
+            java: ["Spring Boot", "Spring Security", "Hibernate", "JPA"]
+        },
+        frontend: {
+            js: ["React", "ES6+"],
+            css: ["Bootstrap", "Material-UI"]
+        },
+        databases: ["PostgreSQL", "MySQL"],
+        devOps: ["Docker", "Git", "GitHub"],
+        tools: ["IntelliJ IDEA", "VS Code", "Postman"]
+    },
+    currentFocus: "Building scalable and secure web applications",
+    funFact: "I love solving complex problems and learning new technologies!"
 };
 ```
 
+---
+
+## 🛠️ Skills & Expertise
+
+| Category | Technologies |
+|----------|-------------|
+| **Backend Development** | Java, Spring Boot, Spring MVC, Spring Security, RESTful APIs, Microservices |
+| **Frontend Development** | React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Responsive Design |
+| **Database Management** | PostgreSQL, MySQL, Hibernate, JPA, SQL, Database Design |
+| **Tools & DevOps** | Git, GitHub, Docker, Maven, Gradle, IntelliJ IDEA, VS Code, Postman |
+| **Security** | Spring Security, JWT Authentication, OAuth2, Encryption, Secure Coding |
+| **Methodologies** | Agile, Scrum, RESTful Design, MVC Architecture, Clean Code, Test-Driven Development |
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+- 🌐 **Website:** [tayfunkilinc.com](https://tayfunkilinc.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tayfunkilinc](https://www.linkedin.com/in/tayfunkilinc/)
+- 📧 **Email:** [tayfunkilinc@example.com](mailto:tayfunkilinc@example.com)
+
+**Feel free to reach out for collaborations, project discussions, or just to connect!**
+
 </div>
 
 ---
 
-## 🎯 Skills & Expertise
-
 <div align="center">
 
-| 🔧 Category | 💡 Skills |
-|-------------|-----------|
-| **Backend** | Java, Spring Boot, Spring Security, Hibernate, JPA, RESTful APIs |
-| **Frontend** | React, JavaScript, HTML5, CSS3, Responsive Design |
-| **Database** | PostgreSQL, MySQL, Flyway Migrations, Database Design |
-| **Tools & DevOps** | Git, GitHub, Docker, IntelliJ IDEA, VS Code |
-| **Security** | JWT Authentication, OAuth2, Spring Security, OTP |
-| **Methodologies** | Agile, Scrum, Clean Code, Design Patterns |
+### 💭 *"Writing code is an art, solving problems is a passion!"*
 
-</div>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-💼 **For Business Inquiries & Projects**: [tayfunkilinc.com.tr](http://www.tayfunkilinc.com.tr/)
-
-💬 **LinkedIn**: [Tayfun KILINÇ](https://www.linkedin.com/in/tayfun-kilinc/)
-
-📧 **Email**: Feel free to reach out via LinkedIn
-
----
-
-### ✨ "Writing code is art, solving problems is passion!" ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
