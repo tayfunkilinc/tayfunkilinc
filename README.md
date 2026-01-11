@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayfunklnc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://tr.pinterest.com/tayfunklnc/)
-[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.tayfunkilinc.com.tr/)
+[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tayfunkilinc.com/)
 
 </div>
 
@@ -47,20 +47,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkilinc&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tayfunkilinc&theme=radical&hide_border=true)
 
 </div>
 
