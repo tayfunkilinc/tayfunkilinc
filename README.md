@@ -2,7 +2,7 @@
   
 # 👋 Merhaba, Ben Tayfun KILINÇ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+Uzman%C4%B1+%E2%98%95;React+%26+PostgreSQL+Geli%C5%9Ftiricisi+%F0%9F%92%BB;Open+Source+Tutkunu+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer+🚀;Java+%7C+Spring+Boot+Uzmanı+☕;React+%26+PostgreSQL+Geliştiricisi+💻;Open+Source+Tutkunu+🌟)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=tayfunkilinc&label=Profile%20views&color=0e75b6&style=flat" alt="tayfunkilinc" />
 
@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayfunklnc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://tr.pinterest.com/tayfunklnc/)
-[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tayfunkilinc.com/)
+[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.tayfunkilinc.com.tr/)
 
 </div>
 
@@ -70,8 +70,8 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunkilinc&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunkilinc&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -100,7 +100,7 @@
 ### 📦 Inventory Project
 
 <a href="https://github.com/tayfunkilinc/inventory-project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=inventory-project1&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=inventory-project1&theme=radical&hide_border=true" alt="Inventory Project" />
 </a>
 
 </div>
@@ -128,7 +128,7 @@
 ### 🏭 Depo Ekstra Ürün Takip Sistemi
 
 <a href="https://github.com/tayfunkilinc/depoekstrauruntakipsistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=depoekstrauruntakipsistemi&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=depoekstrauruntakipsistemi&theme=radical&hide_border=true" alt="Depo Ekstra" />
 </a>
 
 </div>
@@ -152,10 +152,10 @@
 
 | Proje | Açıklama | Link |
 |-------|----------|------|
-| 📖 Practice Lesson | Java ders alıştırmaları ve mini projeler | [Repo](https://github.com/tayfunkilinc/PracticeLesson) |
-| ☕ Java Lesson | Java öğrenme materyalleri | [Repo](https://github.com/tayfunkilinc/JavaLesson) |
-| 🔐 Spring Security JWT | JWT kimlik doğrulama implementasyonu | [Repo](https://github.com/tayfunkilinc/SpringSecurityJwt) |
-| 📱 Android Apps | Müşteri & veri yönetimi için temel Android uygulamaları | [Repolar](https://github.com/tayfunkilinc?tab=repositories) |
+| 📖 Practice Lesson | Java ders alıştırmaları ve mini projeler | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/PracticeLesson) |
+| ☕ Java Lesson | Java öğrenme materyalleri | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/JavaLesson) |
+| 🔐 Spring Security JWT | JWT kimlik doğrulama implementasyonu | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/SpringSecurityJwt) |
+| 📱 Android Apps | Müşteri & veri yönetimi için temel Android uygulamaları | [![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc?tab=repositories) |
 
 </div>
 
@@ -198,10 +198,6 @@ const tayfun = {
 ### 💭 Günün Sözü
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Katkı Yılanı
-
-![Snake animation](https://raw.githubusercontent.com/tayfunkilinc/tayfunkilinc/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
