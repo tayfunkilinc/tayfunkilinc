@@ -1,16 +1,16 @@
 <div align="center">
   
-# 👋 Merhaba, Ben Tayfun KILINÇ
+# 👋 Hi, I'm Tayfun KILINÇ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+Uzman%C4%B1+%E2%98%95;React+%26+PostgreSQL+Geli%C5%9Ftiricisi+%F0%9F%92%BB;Open+Source+Tutkunu+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer+🚀;Java+%7C+Spring+Boot+Expert+☕;React+%26+PostgreSQL+Developer+💻;Open+Source+Enthusiast+🌟)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=tayfunkilinc&label=Profil%20G%C3%B6r%C3%BCnt%C3%BCleme&color=0e75b6&style=flat" alt="tayfunkilinc" />
+<img src="https://komarev.com/ghpvc/?username=tayfunkilinc&label=Profile%20Views&color=0e75b6&style=flat" alt="tayfunkilinc" />
 
 </div>
 
 ---
 
-## 🌐 Sosyal Medya & İletişim
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Teknoloji Yığınım
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -69,9 +69,9 @@
 
 ---
 
-## 🔭 Öne Çıkan Projelerim
+## 🔭 Featured Projects
 
-### 📦 Inventory Project
+### 📦 Inventory Management System
 
 <div align="center">
 
@@ -79,26 +79,26 @@
 
 </div>
 
-**Spring Boot** (backend) ve **React** (frontend) ile oluşturulmuş müşteri ve ürün envanter yönetim sistemi.
+A comprehensive customer and product inventory management system built with **Spring Boot** (backend) and **React** (frontend).
 
-**✨ Özellikler:**
-- 🏢 Çoklu firma entegrasyonu
-- 🗄️ PostgreSQL veritabanı
-- 🔐 Rol tabanlı erişim kontrolü
-- 📍 Dinamik adres yönetimi
-- 🔑 OTP ile güvenli admin akışları
+**✨ Key Features:**
+- 🏢 Multi-company onboarding support
+- 🗄️ PostgreSQL database integration
+- 🔐 Role-based access control (RBAC)
+- 📍 Dynamic address management
+- 🔑 OTP-secured admin workflows
 
-**🛠️ Teknolojiler:** `Spring Boot` `React` `PostgreSQL` `JWT` `REST API`
+**🛠️ Technologies:** `Spring Boot` `React` `PostgreSQL` `JWT` `REST API`
 
 <div align="center">
   
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/inventory-project1)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/inventory-project1)
 
 </div>
 
 ---
 
-### 🏭 Depo Ekstra Ürün Takip Sistemi
+### 🏭 Warehouse Product Tracking System
 
 <div align="center">
 
@@ -106,47 +106,47 @@
 
 </div>
 
-**Gerçek zamanlı bildirimler** ve veritabanı güncellemeleri için **Flyway migrations** ile ürün takip sistemi.
+Advanced product tracking system with **real-time notifications** and **Flyway migrations** for seamless database updates.
 
-**🛠️ Teknolojiler:** `Java` `Spring Boot` `PostgreSQL` `Flyway`
+**🛠️ Technologies:** `Java` `Spring Boot` `PostgreSQL` `Flyway`
 
 <div align="center">
   
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/depoekstrauruntakipsistemi)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/depoekstrauruntakipsistemi)
 
 </div>
 
 ---
 
-### 📚 Diğer Projeler & Eğitim Çalışmaları
+### 📚 Other Projects & Learning Work
 
 <div align="center">
 
-| 🎯 Proje | 📝 Açıklama | 🔗 Link |
+| 🎯 Project | 📝 Description | 🔗 Link |
 |---------|------------|---------|
-| 📖 Practice Lesson | Java ders alıştırmaları ve mini projeler | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/PracticeLesson) |
-| ☕ Java Lesson | Java öğrenme materyalleri ve örnekler | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/JavaLesson) |
-| 🔐 Spring Security JWT | JWT kimlik doğrulama implementasyonu | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/SpringSecurityJwt) |
-| 📱 Android Projects | Müşteri & veri yönetimi uygulamaları | [![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc?tab=repositories) |
+| 📖 Practice Lesson | Java exercises and mini-projects for learning | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/PracticeLesson) |
+| ☕ Java Lesson | Comprehensive Java learning materials and examples | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/JavaLesson) |
+| 🔐 Spring Security JWT | JWT authentication implementation with Spring Security | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/SpringSecurityJwt) |
+| 📱 Android Projects | Customer and data management mobile applications | [![Repos](https://img.shields.io/badge/View_All-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc?tab=repositories) |
 
 </div>
 
 ---
 
-## ⚡ Hakkımda
+## ⚡ About Me
 
 <div align="center">
 
 ```javascript
 const tayfun = {
-    location: "📍 Ankara, Türkiye",
+    location: "📍 Ankara, Turkey",
     pronouns: "he/him",
     currentRole: "Remote Project Developer",
     currentFocus: ["☕ Java", "🍃 Spring Boot", "⚛️ React", "🐘 PostgreSQL"],
     workStyle: "🏠 Remote / Hybrid",
     learning: ["☁️ Cloud Technologies", "🐳 Docker", "🎯 Microservices"],
     interests: ["💻 Full Stack Development", "🚀 Backend Architecture", "🌟 Open Source"],
-    funFact: "🎯 Her zaman yeni teknolojiler öğrenmeye açığım!",
+    funFact: "🎯 Always eager to learn new technologies!",
     availableFor: ["💼 Freelance Projects", "🤝 Collaborations", "📚 Mentorship"]
 };
 ```
@@ -155,36 +155,36 @@ const tayfun = {
 
 ---
 
-## 🎯 Yetenekler & Uzmanlık Alanlarım
+## 🎯 Skills & Expertise
 
 <div align="center">
 
-| 🔧 Kategori | 💡 Yetenekler |
-|-------------|---------------|
+| 🔧 Category | 💡 Skills |
+|-------------|-----------|
 | **Backend** | Java, Spring Boot, Spring Security, Hibernate, JPA, RESTful APIs |
 | **Frontend** | React, JavaScript, HTML5, CSS3, Responsive Design |
 | **Database** | PostgreSQL, MySQL, Flyway Migrations, Database Design |
 | **Tools & DevOps** | Git, GitHub, Docker, IntelliJ IDEA, VS Code |
 | **Security** | JWT Authentication, OAuth2, Spring Security, OTP |
-| **Metodolojiler** | Agile, Scrum, Clean Code, Design Patterns |
+| **Methodologies** | Agile, Scrum, Clean Code, Design Patterns |
 
 </div>
 
 ---
 
-## 📫 Benimle İletişime Geçin
+## 📫 Get In Touch
 
 <div align="center">
 
-💼 **İş Birlikleri ve Projeler İçin**: [tayfunkilinc.com.tr](http://www.tayfunkilinc.com.tr/)
+💼 **For Business Inquiries & Projects**: [tayfunkilinc.com.tr](http://www.tayfunkilinc.com.tr/)
 
 💬 **LinkedIn**: [Tayfun KILINÇ](https://www.linkedin.com/in/tayfun-kilinc/)
 
-📧 **E-posta**: LinkedIn üzerinden bana ulaşabilirsiniz
+📧 **Email**: Feel free to reach out via LinkedIn
 
 ---
 
-### ✨ "Kod yazmak sanat, sorun çözmek tutku!" ✨
+### ✨ "Writing code is art, solving problems is passion!" ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
