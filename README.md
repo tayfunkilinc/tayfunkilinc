@@ -175,7 +175,7 @@ const tayfun = {
 
 <div align="center">
 
-💼 **Business Collaborations & Projects**: [tayfunkilinc.com.tr](https://www.tayfunkilinc.com/)
+💼 **Business Collaborations & Projects**: [tayfunkilinc.com](https://www.tayfunkilinc.com/)
 
 💬 **LinkedIn**: [Tayfun KILINÇ](https://www.linkedin.com/in/tayfun-kilinc/)
 
