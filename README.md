@@ -56,14 +56,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkilinc&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+![Tayfun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkilinc&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tayfunkilinc&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tayfunkilinc&theme=radical&hide_border=true)
 
 </div>
 
@@ -137,6 +134,12 @@ An advanced product tracking system featuring **real-time notifications** and **
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=tayfunkilinc&style=for-the-badge&color=blueviolet)
+
+</div>
+
+### 👨‍💻 Who Am I?
+
 ```javascript
 const tayfun = {
     location: "📍 Ankara, Turkey",
@@ -150,6 +153,15 @@ const tayfun = {
     availableFor: ["💼 Freelance Projects", "🤝 Collaborations", "📚 Mentorship"]
 };
 ```
+
+<div align="center">
+
+### 📈 My Development Journey
+
+**🔹 Experience:** Full Stack Development with focus on Backend Architecture  
+**🔹 Specialization:** Java, Spring Boot, React, PostgreSQL  
+**🔹 Approach:** Clean Code, Agile Methodologies, Test-Driven Development  
+**🔹 Goal:** Building scalable and maintainable applications  
 
 </div>
 
