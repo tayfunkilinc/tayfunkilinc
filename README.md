@@ -2,15 +2,15 @@
   
 # 👋 Merhaba, Ben Tayfun KILINÇ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer+🚀;Java+%7C+Spring+Boot+Uzmanı+☕;React+%26+PostgreSQL+Geliştiricisi+💻;Open+Source+Tutkunu+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Remote+Project+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+Uzman%C4%B1+%E2%98%95;React+%26+PostgreSQL+Geli%C5%9Ftiricisi+%F0%9F%92%BB;Open+Source+Tutkunu+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=tayfunkilinc&label=Profile%20views&color=0e75b6&style=flat" alt="tayfunkilinc" />
+<img src="https://komarev.com/ghpvc/?username=tayfunkilinc&label=Profil%20G%C3%B6r%C3%BCnt%C3%BCleme&color=0e75b6&style=flat" alt="tayfunkilinc" />
 
 </div>
 
 ---
 
-## 🌐 Sosyal Medya & Bağlantılar
+## 🌐 Sosyal Medya & İletişim
 
 <div align="center">
 
@@ -40,27 +40,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database
+### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-
-### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-</div>
-
----
-
-## 🏆 GitHub Başarılarım
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=tayfunkilinc&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -69,25 +55,15 @@
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunkilinc&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayfunkilinc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkilinc&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunkilinc&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-</div>
-
----
-
-## 📈 Katkı Grafiği
-
-<div align="center">
-
-[![Tayfun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tayfunkilinc&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tayfunkilinc&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -95,13 +71,11 @@
 
 ## 🔭 Öne Çıkan Projelerim
 
-<div align="center">
-
 ### 📦 Inventory Project
 
-<a href="https://github.com/tayfunkilinc/inventory-project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=inventory-project1&theme=radical&hide_border=true" alt="Inventory Project" />
-</a>
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=inventory-project1&theme=radical&hide_border=true)](https://github.com/tayfunkilinc/inventory-project1)
 
 </div>
 
@@ -114,48 +88,46 @@
 - 📍 Dinamik adres yönetimi
 - 🔑 OTP ile güvenli admin akışları
 
+**🛠️ Teknolojiler:** `Spring Boot` `React` `PostgreSQL` `JWT` `REST API`
+
 <div align="center">
   
-[![View Demo](https://img.shields.io/badge/View_Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/inventory-project1/raw/main/demo.png)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/inventory-project1)
 
 </div>
 
 ---
 
-<div align="center">
-
 ### 🏭 Depo Ekstra Ürün Takip Sistemi
 
-<a href="https://github.com/tayfunkilinc/depoekstrauruntakipsistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=depoekstrauruntakipsistemi&theme=radical&hide_border=true" alt="Depo Ekstra" />
-</a>
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tayfunkilinc&repo=depoekstrauruntakipsistemi&theme=radical&hide_border=true)](https://github.com/tayfunkilinc/depoekstrauruntakipsistemi)
 
 </div>
 
 **Gerçek zamanlı bildirimler** ve veritabanı güncellemeleri için **Flyway migrations** ile ürün takip sistemi.
 
-**🛠️ Teknolojiler:** Java, Spring Boot, PostgreSQL
+**🛠️ Teknolojiler:** `Java` `Spring Boot` `PostgreSQL` `Flyway`
 
 <div align="center">
   
-[![View Demo](https://img.shields.io/badge/View_Demo-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/depoekstrauruntakipsistemi/raw/main/demo.png)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayfunkilinc/depoekstrauruntakipsistemi)
 
 </div>
 
 ---
 
-### 📚 Diğer Projeler & Çalışmalar
+### 📚 Diğer Projeler & Eğitim Çalışmaları
 
 <div align="center">
 
-| Proje | Açıklama | Link |
-|-------|----------|------|
+| 🎯 Proje | 📝 Açıklama | 🔗 Link |
+|---------|------------|---------|
 | 📖 Practice Lesson | Java ders alıştırmaları ve mini projeler | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/PracticeLesson) |
-| ☕ Java Lesson | Java öğrenme materyalleri | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/JavaLesson) |
+| ☕ Java Lesson | Java öğrenme materyalleri ve örnekler | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/JavaLesson) |
 | 🔐 Spring Security JWT | JWT kimlik doğrulama implementasyonu | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc/SpringSecurityJwt) |
-| 📱 Android Apps | Müşteri & veri yönetimi için temel Android uygulamaları | [![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc?tab=repositories) |
+| 📱 Android Projects | Müşteri & veri yönetimi uygulamaları | [![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github)](https://github.com/tayfunkilinc?tab=repositories) |
 
 </div>
 
@@ -169,11 +141,13 @@
 const tayfun = {
     location: "📍 Ankara, Türkiye",
     pronouns: "he/him",
-    currentFocus: "☕ Java & Spring Boot Microservices",
-    workStyle: "🏠 Remote Developer",
-    interests: ["💻 Full Stack Development", "🚀 Cloud Technologies", "🌟 Open Source"],
+    currentRole: "Remote Project Developer",
+    currentFocus: ["☕ Java", "🍃 Spring Boot", "⚛️ React", "🐘 PostgreSQL"],
+    workStyle: "🏠 Remote / Hybrid",
+    learning: ["☁️ Cloud Technologies", "🐳 Docker", "🎯 Microservices"],
+    interests: ["💻 Full Stack Development", "🚀 Backend Architecture", "🌟 Open Source"],
     funFact: "🎯 Her zaman yeni teknolojiler öğrenmeye açığım!",
-    contact: "💬 Benimle iletişime geçmekten çekinmeyin!"
+    availableFor: ["💼 Freelance Projects", "🤝 Collaborations", "📚 Mentorship"]
 };
 ```
 
@@ -181,28 +155,37 @@ const tayfun = {
 
 ---
 
-## 📫 İletişim
+## 🎯 Yetenekler & Uzmanlık Alanlarım
 
 <div align="center">
 
-💼 **İş birlikleri ve projeler için**: [tayfunkilinc.com.tr](http://www.tayfunkilinc.com.tr/)
-
-📧 **E-posta**: LinkedIn üzerinden ulaşabilirsiniz
+| 🔧 Kategori | 💡 Yetenekler |
+|-------------|---------------|
+| **Backend** | Java, Spring Boot, Spring Security, Hibernate, JPA, RESTful APIs |
+| **Frontend** | React, JavaScript, HTML5, CSS3, Responsive Design |
+| **Database** | PostgreSQL, MySQL, Flyway Migrations, Database Design |
+| **Tools & DevOps** | Git, GitHub, Docker, IntelliJ IDEA, VS Code |
+| **Security** | JWT Authentication, OAuth2, Spring Security, OTP |
+| **Metodolojiler** | Agile, Scrum, Clean Code, Design Patterns |
 
 </div>
 
 ---
 
+## 📫 Benimle İletişime Geçin
+
 <div align="center">
 
-### 💭 Günün Sözü
+💼 **İş Birlikleri ve Projeler İçin**: [tayfunkilinc.com.tr](http://www.tayfunkilinc.com.tr/)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💬 **LinkedIn**: [Tayfun KILINÇ](https://www.linkedin.com/in/tayfun-kilinc/)
+
+📧 **E-posta**: LinkedIn üzerinden bana ulaşabilirsiniz
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### ✨ "Kod yazmak sanat, sorun çözmek tutku!" ✨
 
-**✨ Her güzel proje bir satır kod ile başlar! ✨**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
